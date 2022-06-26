@@ -1,1 +1,3 @@
 Welcome to Squid Proxy server
+
+This is important servar
